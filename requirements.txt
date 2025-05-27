@@ -16,3 +16,4 @@ nvidia-ml-py3
 pandas
 random-word
 sentencepiece
+nvidia_smi
